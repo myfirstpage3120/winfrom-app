@@ -1,0 +1,11 @@
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\bin\Debug\NewWindowsFormsApp.exe.config
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\bin\Debug\NewWindowsFormsApp.exe
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\bin\Debug\NewWindowsFormsApp.pdb
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.Form1.resources
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.Properties.Resources.resources
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.exe
+C:\Users\NG69901\source\repos\NewWindowsFormsApp\NewWindowsFormsApp\obj\Debug\NewWindowsFormsApp.pdb
